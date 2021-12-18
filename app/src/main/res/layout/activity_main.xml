@@ -39,7 +39,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:text="DST funded Project"
+        android:text=" Govt. of India"
         android:textColor="#748dd7"
         android:textStyle="bold"
         android:textSize="15dp" />
